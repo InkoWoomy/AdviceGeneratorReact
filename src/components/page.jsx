@@ -22,7 +22,7 @@ function Page() {
           <h2 className='text-white md:text-4xl font-bold py-10 text-2xl text-center sm:flex lg:block'>"{output.advice}"</h2>  
         </div>
         <div className='flex justify-center pb-10'>
-          <img src="/public/pattern-divider-desktop.svg" alt="Divider Desktop" className='size-auto md:hidden block'/>
+          <img src="./public/pattern-divider-desktop.svg" alt="Divider Desktop" className='size-auto md:hidden block'/>
           <img src="/public/pattern-divider-mobile.svg" alt="Divider Mobile" className='size-auto md:block hidden'/>
         </div>
         <div className='flex justify-center'>
