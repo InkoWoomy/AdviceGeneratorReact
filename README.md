@@ -1,8 +1,20 @@
-# React + Vite
+# AdviceGeneratorReact
+With the assets given to you, remake the following Project : Advice Generator.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Requirements:
 
-Currently, two official plugins are available:
+Built in React
+Use https://api.adviceslip.com/advice for your API call
+Must have a component folder ( App cannot be built in the app.js or in the index.js)
+Responsive to Mobile and Desktop versions
+Must use all assets given
+You can use bootstrap or tailwind
+Goal is to recreate this challenge as close to the design as possible and having it function properly.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Things to turn in:
+
+Peer review
+Node Modules deleted
+Azure or Vercel hosted link
+Github link
